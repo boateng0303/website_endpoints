@@ -62,7 +62,6 @@ google.com.mx
 google.ca
 amazon.in
 google.com.hk
-tianya.cn
 amazon.co.uk
 craigslist.org
 pornhub.com
@@ -83,6 +82,3 @@ xinhuanet.com
 dropbox.com
 google.co.kr
 googleusercontent.com
-testter.gk
-myhomee.tk
-kwasiboateng.com
