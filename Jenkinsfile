@@ -16,7 +16,7 @@ pipeline{
 
         stage('deploy'){
             steps{
-                sh 'final deployment done'
+                sh 'final deployment done successfully'
             }
         }
     }
